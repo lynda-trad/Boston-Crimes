@@ -9,7 +9,7 @@ The notebook is an in-depth analysis of a rich database registering crimes which
 ### Visualization: 
 
 - Dates of the crimes :  
-  - Distribution through the years, through the week, and through the hours
+  - Distribution through the years, months, week, and hours
 - Shootings : 
   - Distribution through the years,
   - Location
