@@ -17,8 +17,12 @@ The notebook is an in-depth analysis of a rich database registering crimes which
   - 20 most frequent offenses,
   - Treemaps of offenses codes and offenses descriptions, 
   - Motor Vehicle Accident locations through the years
+  - Most common offenses per District
+  - 10 Least frequent offenses
 - Offenses Distribution through the week and through the hours
 - Crimes Location in 2017
+- Crimes Clusters Map
+- Heatmap of Boston
 
 
 ___
